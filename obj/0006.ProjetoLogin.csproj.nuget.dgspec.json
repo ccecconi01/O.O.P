@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\olacl\\POO project\\final project p3 (2)\\final project(unfinished)\\final project\\0006.ProjetoLogin\\0006.ProjetoLogin\\0006.ProjetoLogin.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\olacl\\POO project\\final project p3 (2)\\final project(unfinished)\\final project\\0006.ProjetoLogin\\0006.ProjetoLogin\\0006.ProjetoLogin.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\olacl\\POO project\\final project p3 (2)\\final project(unfinished)\\final project\\0006.ProjetoLogin\\0006.ProjetoLogin\\0006.ProjetoLogin.csproj",
+        "projectName": "0006.ProjetoLogin",
+        "projectPath": "C:\\Users\\olacl\\POO project\\final project p3 (2)\\final project(unfinished)\\final project\\0006.ProjetoLogin\\0006.ProjetoLogin\\0006.ProjetoLogin.csproj",
+        "packagesPath": "C:\\Users\\olacl\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\olacl\\POO project\\final project p3 (2)\\final project(unfinished)\\final project\\0006.ProjetoLogin\\0006.ProjetoLogin\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\olacl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
